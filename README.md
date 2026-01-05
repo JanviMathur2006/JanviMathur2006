@@ -53,7 +53,7 @@ A resume builder web application focused on clean design and ease of use.
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/janvi-mathur  
-- 📸 **Instagram:** @j_anvimathur  
+- 📸 **Instagram:** j_anvimathur  
 
 ---
 
