@@ -59,7 +59,7 @@ A resume builder web application focused on clean design and ease of use.
 
 ✨ Thanks for visiting my GitHub profile!  
 📖 Always learning, always building.
-## Hi there 👋
+
 
 <!--
 **JanviMathur2006/JanviMathur2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
