@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Janvi 👋</h1>
-<h3 align="center">Engineering Student | Web Development Enthusiast</h3>
+<h1 align="center">Hi, I'm Janvi Mathur 👋</h1>
+<h3 align="center">Exploring modern web development & building thoughtful digital experiences</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m **Janvi Mathur**, an engineering student at **Bhagwan Parshuram Institute of Technology (BPIT), Delhi, India**.  
-I have a growing interest in **technology, design, and web development**, and I enjoy learning by building real-world projects.
+I’m **Janvi Mathur**, currently studying at **Bhagwan Parshuram Institute of Technology (BPIT), Delhi, India**.  
+I have a strong interest in **web development, design, and problem-solving**, and I enjoy learning by building practical, real-world projects.
 
-I’m currently exploring modern web technologies and focusing on improving my programming and problem-solving skills through hands-on practice. I like creating clean, user-friendly interfaces and understanding how applications work behind the scenes.
+I’m actively exploring modern web technologies and continuously improving my skills through hands-on development. I like creating clean, user-friendly interfaces and understanding how applications work behind the scenes.
 
 ---
 
@@ -44,16 +44,29 @@ I’m currently exploring modern web technologies and focusing on improving my p
 ### **Resumiq**
 A resume builder web application focused on clean design and ease of use.
 
-- Built with **React** and **Tailwind CSS**  
-- Uses **Firebase** for authentication and data management  
-- Designed to be simple, responsive, and user-friendly  
+- Built with **React** and **Tailwind CSS**
+- Uses **Firebase** for authentication and data management
+- Designed to be simple, responsive, and user-friendly
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JanviMathur2006&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanviMathur2006&theme=default" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/janvi-mathur  
-- 📸 **Instagram:** j_anvimathur  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/janvi-mathur-74012a370  
+- 📸 **Instagram:** https://www.instagram.com/j_anvimathur  
+- 📧 **Email:** mailto:mathurj9900@gmail.com  
 
 ---
 
