@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hello! I'm **Janvi Mathur**, a B.Tech Computer Science student at  
 **Bhagwan Parshuram Institute of Technology (BPIT), Delhi, India**.
