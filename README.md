@@ -2,34 +2,44 @@
 <h3 align="center">Exploring modern web development & building thoughtful digital experiences</h3>
 
 ---
-# 👩‍💻 Janvi Mathur
+👩‍💻 Janvi Mathur
+
+> Crafting elegant digital experiences through code and creativity.
+
+---
 
 ## 👋 About Me
 
-Hi! I'm **Janvi Mathur**, currently pursuing B.Tech in Computer Science at  
+Hello! I'm **Janvi Mathur**, a B.Tech Computer Science student at  
 **Bhagwan Parshuram Institute of Technology (BPIT), Delhi, India**.
 
-I am passionate about **Web Development, UI/UX Design, and Problem Solving**.  
-I enjoy building real-world applications that combine elegant design with strong functionality.
+I am deeply interested in **Web Development, UI/UX Design, and Algorithmic Problem Solving**.  
+I enjoy building impactful, real-world applications that blend thoughtful design with robust functionality.
 
-I continuously enhance my skills by developing full-stack projects and exploring modern web technologies.
+I continuously strive to strengthen my technical foundation by developing full-stack projects and exploring modern development practices.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Technical Expertise:**  
-C++, Python, JavaScript (ES6+), HTML5, CSS3 | React, React Router, Context API, Tailwind CSS | Firebase, Node.js | Vite, NPM | Git (branching, rebasing, conflict resolution), GitHub
+### 💻 Programming Languages
+C++, Python, JavaScript (ES6+), HTML5, CSS3  
+
+### 🌐 Frontend & Backend Technologies
+React, React Router, Context API, Tailwind CSS, Firebase, Node.js  
+
+### ⚙️ Tools & Version Control
+Vite, NPM, Git (branching, rebasing, conflict resolution), GitHub  
 
 ---
 
 ## 🚀 Projects
 
 ### 🌟 Resumiq  
-A modern resume builder web application that enables users to create, customize, and download professional resumes through a clean, responsive interface. Built using React, Tailwind CSS, and Firebase for authentication and data management.
+A thoughtfully designed resume builder web application that enables users to create, customize, and export professional resumes with ease. Developed using React and Tailwind CSS, with Firebase handling authentication and data persistence.
 
 ### 📸 Snippix  
-A creative social web platform for designing aesthetic photo frames and collages. It features user authentication, profile management, and interactive UI elements, powered by React and Firebase.
+A creative social web platform focused on aesthetic photo frames and collage creation. It integrates user authentication, profile management, and interactive UI components, delivering a smooth and engaging user experience powered by React and Firebase.
 
 ---
 
@@ -52,7 +62,8 @@ A creative social web platform for designing aesthetic photo frames and collages
 
 ---
 
-✨ *Always learning. Always building.*  
+✨ *Committed to continuous learning and building meaningful digital experiences.*  
+🚀 Open to internships and collaborative opportunities.
 
 
 <!--
