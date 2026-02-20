@@ -4,8 +4,6 @@
 ---
 👩‍💻 Janvi Mathur
 
-> Crafting elegant digital experiences through code and creativity.
-
 ---
 
 ## 👋 About Me
