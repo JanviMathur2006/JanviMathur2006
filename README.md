@@ -3,16 +3,22 @@
 
 ---
 
-## 👩‍💻 About Me
+## # 👩‍💻 Janvi Mathur
 
-I’m **Janvi Mathur**, currently studying at **Bhagwan Parshuram Institute of Technology (BPIT), Delhi, India**.  
-I have a strong interest in **web development, design, and problem-solving**, and I enjoy learning by building practical, real-world projects.
+## 👋 About Me
 
-I’m actively exploring modern web technologies and continuously improving my skills through hands-on development. I like creating clean, user-friendly interfaces and understanding how applications work behind the scenes.
+Hi! I'm **Janvi Mathur**, currently pursuing B.Tech in Computer Science at  
+**Bhagwan Parshuram Institute of Technology (BPIT), Delhi, India**.
+
+I’m passionate about **Web Development, UI/UX Design, and Problem Solving**.  
+I enjoy building practical, real-world projects that combine clean design with strong functionality.
+
+I love creating intuitive user experiences and understanding how applications work behind the scenes.  
+Currently focused on building full-stack web applications using modern technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Languages
 - C++
@@ -21,32 +27,50 @@ I’m actively exploring modern web technologies and continuously improving my s
 - HTML5
 - CSS3
 
-### 🌐 Frameworks & Tools
+### 🌐 Frontend
 - React
 - React Router
 - Context API
 - Tailwind CSS
-- Vite
+
+### 🔥 Backend & Services
+- Firebase
 - Node.js
+
+### ⚙️ Tools
+- Vite
 - NPM
 
-### 🔐 Backend / Database
-- Firebase
-
 ### 🔧 Version Control
-- Git
+- Git (branching, rebasing, conflict resolution)
 - GitHub
 
 ---
 
-## 📌 Current Project
+## 🚀 Current Projects
 
-### **Resumiq**
-A resume builder web application focused on clean design and ease of use.
+### 🌟 Resumiq  
+A modern resume builder web application focused on clean design and ease of use.
 
-- Built with **React** and **Tailwind CSS**
-- Uses **Firebase** for authentication and data management
-- Designed to be simple, responsive, and user-friendly
+**Key Highlights:**
+- Built using **React + Tailwind CSS**
+- Firebase Authentication & Firestore integration
+- Resume creation, preview & download functionality
+- Clean, minimal, and responsive UI
+- Smooth transitions and polished UX
+
+---
+
+### 📸 Snippix  
+A creative social web application for designing aesthetic photo frames and collages.
+
+**Key Highlights:**
+- Built with **React + Tailwind CSS**
+- Firebase Authentication, Firestore & Storage integration
+- Explore feature with real user profiles
+- Profile setup & customizable settings
+- Interactive UI with smooth animations
+- Focused on creative, user-friendly design experience
 
 ---
 
@@ -64,15 +88,14 @@ A resume builder web application focused on clean design and ease of use.
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/janvi-mathur-74012a370  
-- 📸 **Instagram:** https://www.instagram.com/j_anvimathur  
-- 📧 **Email:** mailto:mathurj9900@gmail.com  
+- 💼 LinkedIn: [Janvi Mathur](https://www.linkedin.com/in/janvi-mathur-74012a370)
+- 📸 Instagram: [@j_anvimathur](https://www.instagram.com/j_anvimathur)
+- 📧 Email: mathurj9900@gmail.com  
 
 ---
 
-✨ Thanks for visiting my GitHub profile!  
-📖 Always learning, always building.
-
+✨ *Always learning. Always building.*  
+🚀 Open to internships and collaborative opportunities.
 
 <!--
 **JanviMathur2006/JanviMathur2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
