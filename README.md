@@ -2,7 +2,6 @@
 <h3 align="center">Exploring modern web development & building thoughtful digital experiences</h3>
 
 ---
-👩‍💻 Janvi Mathur
 
 ---
 
