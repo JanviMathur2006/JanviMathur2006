@@ -60,7 +60,6 @@ A creative social web platform focused on aesthetic photo frames and collage cre
 ---
 
 ✨ *Committed to continuous learning and building meaningful digital experiences.*  
-🚀 Open to internships and collaborative opportunities.
 
 
 <!--
