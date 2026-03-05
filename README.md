@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Janvi Mathur </h1>
+<h1 align="center">Hi, I'm Janvi Mathu </h1>
 <h3 align="center">Exploring modern web development & building thoughtful digital experiences</h3>
 
 ---
