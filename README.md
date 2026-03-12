@@ -30,7 +30,7 @@ Vite, NPM, Git (branching, rebasing, conflict resolution), GitHub
 ## 🚀 Projects
 
 ### 🌟 Resumiq  
-A thoughtfully designed resume builder web application that enables users to create, customize, and export professional resumes with ease. Developed using React and Tailwind CSS, with Firebase handling authentication and data persistenc.
+A thoughtfully designed resume builder web application that enables users to create, customize, and export professional resumes with ease. Developed using React and Tailwind CSS, with Firebase handling authentication and data persistence.
 
 ### 📸 Snippix  
 A creative social web platform focused on aesthetic photo frames and collage creation. It integrates user authentication, profile management, and interactive UI components, delivering a smooth and engaging user experience powered by React and Firebase.
