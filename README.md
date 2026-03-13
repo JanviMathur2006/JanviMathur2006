@@ -20,7 +20,7 @@ Continuously dedicated to strengthening technical expertise through full-stack p
 C++, Python, JavaScript (ES6+), HTML5, CSS3 
 
 ### 🌐 Frontend & Backend Technologies
-React, Reac Router, Context API, Tailwind CSS, Firebase, Node.js  
+React, React Router, Context API, Tailwind CSS, Firebase, Node.js  
 
 ### ⚙️ Tools & Version Control
 Vite, NPM, Git (branching, rebasing, conflict resolution), GitHub  
