@@ -6,7 +6,7 @@
 
 
 ## About Me
-Hello! I'm Janvi Mathur, a B.Tech Computer Science student at
+Hell! I'm Janvi Mathur, a B.Tech Computer Science student at
 Bhagwan Parshuram Institute of Technology (BPIT), Delhi, India.
 Passionate about Web Development, UI/UX Design, and Algorithmic Problem Solving.
 Focused on building impactfut, real-world applications that seamlessly blend thoughtful design with robust functionality.
