@@ -17,7 +17,7 @@ Continuously dedicated to strengthening technical expertise through full-stack p
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-C++, Python, JavaScript (ES6+), HTML5, CSS3 
+C++, Python, JavaScript (ES6+), HTML5, CSS3 , PHP
 
 ### 🌐 Frontend & Backend Technologies
 React, React Router, Context API, Tailwind CSS, Firebase, Node.js  
