@@ -1,15 +1,19 @@
 <h1 align="center">Hi, I'm Janvi Mathur </h1>
-<h3 align="center">Exploring modern web development & building thoughtful digital experiences</h3>
+
+<h3 align="center">
+Exploring modern web development & building thoughtful digital experiences
+</h3>
 
 ---
 
+## 👩‍💻 About Me
 
-
-## About Me
-Hello! I'm Janvi Mathur, a B.Tech Computer Science student at
+Hello! I'm Janvi Mathur, a B.Tech Computer Science student at  
 Bhagwan Parshuram Institute of Technology (BPIT), Delhi, India.
-Passionate about Web Development, UI/UX Design, and Algorithmic Problem Solving.
-Focused on building impactfut, real-world applications that seamlessly blend thoughtful design with robust functionality.
+
+Passionate about Web Development, UI/UX Design, and Algorithmic Problem Solving.  
+Focused on building impactful, real-world applications that seamlessly blend thoughtful design with robust functionality.
+
 Continuously dedicated to strengthening technical expertise through full-stack project development and the exploration of modern development practices.
 
 ---
@@ -17,22 +21,35 @@ Continuously dedicated to strengthening technical expertise through full-stack p
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-C++, Python, JavaScript (ES6+), HTML5, CSS3 , PHP
+- C++
+- Python
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- PHP
 
 ### 🌐 Frontend & Backend Technologies
-React, React Router, Context API, Tailwind CSS, Firebase, Node.js  
+- React
+- React Router
+- Context API
+- Tailwind CSS
+- Firebase
+- Node.js
 
 ### ⚙️ Tools & Version Control
-Vite, NPM, Git (branching, rebasing, conflict resolution), GitHub  
+- Vite
+- NPM
+- Git
+- GitHub
 
 ---
 
 ## 🚀 Projects
 
-### 🌟 Resumiq  
+### 🌟 Resumiq
 A thoughtfully designed resume builder web application that enables users to create, customize, and export professional resumes with ease. Developed using React and Tailwind CSS, with Firebase handling authentication and data persistence.
 
-### 📸 Snippix  
+### 📸 Snippix
 A creative social web platform focused on aesthetic photo frames and collage creation. It integrates user authentication, profile management, and interactive UI components, delivering a smooth and engaging user experience powered by React and Firebase.
 
 ---
@@ -40,23 +57,35 @@ A creative social web platform focused on aesthetic photo frames and collage cre
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanviMathur2006&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JanviMathur2006&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanviMathur2006&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanviMathur2006&theme=tokyonight" />
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Janvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JanviMathur2006&theme=tokyo-night)](https://github.com/JanviMathur2006)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=JanviMathur2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [Janvi Mathur](https://www.linkedin.com/in/janvi-mathur-74012a370)
-- 📧 Email: mathurj9900@gmail.com  
+- 📧 Email: mathurj9900@gmail.com
 
 ---
 
-✨ *Committed to continuous learning and building meaningful digital experiences.*  
+✨ *Committed to continuous learning and building meaningful digital experiences.*
 
 
 <!--
